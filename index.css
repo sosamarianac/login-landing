@@ -1,5 +1,6 @@
 body {
     background-color: rgb(230, 227, 227);  
+    opacity: 0.9;
 }
 .contenedor {
     width: 100%;
@@ -26,8 +27,8 @@ form {
     
 }
 img {
-    width: 150px;
-    height: 150px;
+    width: 300px;
+    height: 300px;
     
     
 }
@@ -54,7 +55,6 @@ img {
     font-weight: bolder;
     color: white;
     border-color:  rgb(111, 88, 241);
-    shape-outside: ;
 }
 .reset{
     width: 60%;
